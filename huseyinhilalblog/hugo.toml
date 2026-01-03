@@ -1,0 +1,4 @@
+baseURL = 'https://huseyinhilal.github.io.git/'
+languageCode = 'en-us'
+title = 'Huseyin Hilal Blog'
+theme='hugo-blog-awesome'
