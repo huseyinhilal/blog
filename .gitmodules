@@ -1,0 +1,4 @@
+[submodule "huseyinhilalblog/public"]
+	path = huseyinhilalblog/public
+	url = https://github.com/huseyinhilal/huseyinhilal.github.io.git
+	branch = main
